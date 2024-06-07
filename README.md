@@ -1,7 +1,7 @@
 # TryHackMe-Vault
-# Welcome To My Cyber Security / Operations journey!
+# Welcome To My Cyber Security / Operations Journey!
 
-This repository or repo as I shall call it for now on will be showcasing my ongoiing and continuing journey in the field of cybersecurity / cyber warfare. It will be including beginner detailed walkthroughs of TryHackMe rooms, scripts ive developed, and refelctions from my experiences.
+This repository or "repo" as I shall call it for now on will be showcasing my ongoing and continuing journey in the field of cybersecurity / cyber warfare. It will be including beginner level detailed walkthroughs of TryHackMe rooms, scripts ive developed, and refelctions from my experiences.
 
   ## Whats Inside?
 
