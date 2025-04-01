@@ -21,4 +21,4 @@ This repository or "repo" as I shall call it for now on will be showcasing my on
 
 ## How To Connect With Me
 
-- LinkedIn: LinuxRonin ( Cliche I know but we all have to build a brand somewhere with names right? )
+- **LinkedIn**: [LinuxRonin](https://www.linkedin.com/in/juwonbrunson)
